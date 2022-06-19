@@ -5,5 +5,5 @@
 
 3D Kalkulator adalah web yang akan membantu menghitung bangunan 3D khususnya Silinder, Kerucut, Bola
 
-### Link: [](https://tugas3-1402019076.herokuapp.com/)
+### Link: [3D Kalkulator](https://tugas3-1402019076.herokuapp.com/)
 
